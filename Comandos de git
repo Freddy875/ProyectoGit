@@ -1,0 +1,29 @@
+Comandos de git 
+
+git init //Para inicializar un nuevo proyecto 
+git add <file> //Para agregar un arhivo al staging area 
+git status //Para ver el estado de nuestros archivos 
+git commit //Para crear el primer punto de control de nuestro código 
+git push 
+git pull
+git clone 
+git config --global user.email "yourexamble.com"
+git config --globar user.name "Your Name"
+git log //Ver todos los commits que hemos creado
+git checkout -- <file> //Para revertir los cambios de los archivos 
+git diff //Para ver las diferencias hechas en los archivos
+.gitignore para que en su interior ignore todos los archivos 
+git branch //Mostrar las ramas de los archivos 
+
+Pasos para git 
+git init
+git status
+git add .
+git commit -m 
+git status 
+git log 
+Entramos a github 
+Creamos el respositorio
+Creamos el README
+Copiamos y pegamos el git remote 
+Copiamos y pegamos el git push 
