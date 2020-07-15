@@ -1,1 +1,1 @@
-# ProyectoX
+Estamos aprendiendo Git y GitHub
