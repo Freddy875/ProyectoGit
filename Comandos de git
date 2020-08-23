@@ -40,3 +40,17 @@ Entonces usar el comando
 
 rm .git/index.lock
 
+Si aparece la leyenda
+fatal: cannot lock ref 'HEAD': Unable to create 'E:/GitHub/Java/.git/HEAD.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+Entonces usar el comando
+
+rm .git/HEAD.lock
+
+
+
